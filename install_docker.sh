@@ -1,5 +1,8 @@
 #!/bin/bash
 
+##Script to install a docker registry with certificate and login and passoword
+
+
 # Colors
 YELLOW='\033[1;33m'
 GREEN='\033[0;32m'
