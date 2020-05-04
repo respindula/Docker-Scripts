@@ -1,5 +1,8 @@
 #!/bin/bash
 
+##Script to delete a repository and all its images (SERVER SIDE)
+
+
 # Colors
 YELLOW='\033[1;33m'
 GREEN='\033[0;32m'
