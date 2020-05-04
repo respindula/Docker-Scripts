@@ -1,5 +1,7 @@
 #!/bin/bash
 
+##Script build a image with more than one architecture and push to a private registry
+##It tries to build 20 times each architecture because dotnet core throws a lot of network errors sometimes
 
 # Colors
 RED='\033[0;31m'
