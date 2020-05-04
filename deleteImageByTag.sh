@@ -1,5 +1,6 @@
 #!/bin/bash
 
+##Script to delete a image by its tag (CLIENT SIDE)
 
 # Colors
 RED='\033[0;31m'
